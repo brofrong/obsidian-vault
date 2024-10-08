@@ -1,8 +1,8 @@
-A [[D]] G Bm  F#7 E Am
+
+```chords
 
 [Intro]
 A
-```
 
 [Verse 1]
       D    G    Bm
@@ -31,7 +31,7 @@ All of my affections
 I give them all to you
 F#7                     G
 Maybe by next summer
-   D                                            A
+   D            A
 We won't have changed our tune
  
 [Verse 3]
