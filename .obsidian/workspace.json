@@ -52,10 +52,11 @@
             "id": "0aebdaa8640ec66d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".DS_Store",
-                "staged": true
+                "file": "Гитара/Animal ДжаZ - Три полоски.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -126,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Гитара/Animal ДжаZ - Три полоски.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Гитара/Animal ДжаZ - Три полоски.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +166,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Гитара/Animal ДжаZ - Три полоски.md"
+              }
             }
           },
           {
