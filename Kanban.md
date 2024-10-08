@@ -7,6 +7,7 @@ kanban-plugin: board
 ## test
 
 - [ ] test
+- [ ] sadasdas @{2024-10-15}
 
 
 ## done
