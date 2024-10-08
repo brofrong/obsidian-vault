@@ -6,11 +6,11 @@ kanban-plugin: board
 
 ## test
 
+- [ ] test
 
 
 ## done
 
-- [ ] test
 
 
 
