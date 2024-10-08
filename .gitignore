@@ -29,4 +29,4 @@ Temporary Items
 # End of https://mrkandreev.name/snippets/gitignore-generator/#macOS
 
 # Obsidian
-/.obsidian
+.obsidian
