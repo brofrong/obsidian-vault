@@ -22,4 +22,5 @@ Temporary Items
 # Obsidian
 
 .obsidian
+!.obsidian/community-plugins.json
 !.obsidian/plugins/obsidian-icon-folder/data.json
