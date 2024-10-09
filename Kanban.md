@@ -7,17 +7,17 @@ kanban-plugin: board
 ## test
 
 - [ ] test
-- [ ] sadasdas @{2024-10-15}
 
 
 ## done
 
+- [ ] [[JavaScript]]
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false],"show-checkboxes":false,"full-list-lane-width":true}
 ```
 %%
