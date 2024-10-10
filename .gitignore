@@ -20,7 +20,10 @@ Temporary Items
 .apdisk
 
 # Obsidian
-
-.obsidian
+.obsidian/*
 !.obsidian/community-plugins.json
+!.obsidian/plugins/
+.obsidian/plugins/*
+!.obsidian/plugins/obsidian-icon-folder/
+.obsidian/plugins/obsidian-icon-folder/*
 !.obsidian/plugins/obsidian-icon-folder/data.json
