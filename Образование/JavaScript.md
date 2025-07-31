@@ -24,6 +24,13 @@ url: "https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
 "
 ```
 
+```embed
+title: "MagicPattern - Beautiful & cool backgrounds with 20+ tools!"
+image: "https://storage.googleapis.com/brandflow-bucket/magipattern/og-images/og-image.jpg"
+description: "Create Pro Visuals with MagicPattern. Generate SVG/CSS patterns, gradients and organic shapes to brand your product and social media posts."
+url: "https://www.magicpattern.design/"
+```
+
 
 # Garbage collector
 ```embed
